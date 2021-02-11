@@ -11,7 +11,7 @@ namespace Cv01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-
+            Console.WriteLine("New on GitHub.");
 
             Console.ReadLine();
         }
