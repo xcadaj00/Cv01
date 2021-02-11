@@ -12,6 +12,7 @@ namespace Cv01
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("New on GitHub.");
+            Console.WriteLine("Working!");
 
             Console.ReadLine();
         }
